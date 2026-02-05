@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: radial-gradient( circle farthest-corner at 9.8% 19.4%,  rgba(223,75,75,1) 11.6%, rgba(20,12,12,1) 90.5% );
+  overflow: hidden;
+}
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #12253e;
+}
+
+.app-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 24px;
+}
+
+.nav-btn {
+  text-decoration: none;
+  color: white;
+  background: #3b82f6;
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.nav-btn:hover {
+  background: #2563eb;
+}
+
+/* Center container */
+.container {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Card */
+.card {
+  width: 520px;
+  padding: 35px;
+  border-radius: 14px;
+  background: white;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Profile image */
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 15px 0 25px;
+}
+
+/* Lists */
+.list {
+  text-align: left;
+  margin-left: 40px;
+  padding-left: 0;
+}
+
+.list li {
+  margin-bottom: 8px;
+}
