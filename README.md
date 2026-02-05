@@ -43,7 +43,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 3️⃣ Contact Page
 
-![Contact Page]()
+![Contact Page](https://github.com/aadi761/fs3/blob/main/contact.jpeg)
 
 - Loaded when `/contact` route is accessed
 - Confirms smooth client-side navigation
