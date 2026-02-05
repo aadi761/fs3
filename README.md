@@ -23,7 +23,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 1️⃣ Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](  )
 
 - Default landing page
 - Displays navigation buttons (Home, About, Contact)
@@ -33,7 +33,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 2️⃣ About Page
 
-![About Page](screenshots/about.png)
+![About Page]()
 
 - Loaded when `/about` route is accessed
 - Displays static information
@@ -43,7 +43,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 3️⃣ Contact Page
 
-![Contact Page](screenshots/contact.png)
+![Contact Page]()
 
 - Loaded when `/contact` route is accessed
 - Confirms smooth client-side navigation
@@ -52,7 +52,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 4️⃣ Profile Page (Without Buttons)
 
-![Profile Page Basic](screenshots/profile-basic.png)
+![Profile Page Basic]()
 
 - Basic Profile page
 - Contains:
@@ -66,7 +66,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 5️⃣ Dashboard Page (Without Buttons)
 
-![Dashboard Basic](screenshots/dashboard-basic.png)
+![Dashboard Basic]()
 
 - Displays skills and about-me section
 - No internal navigation buttons
@@ -76,7 +76,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 6️⃣ Profile Page (With Navigation Buttons)
 
-![Profile Page With Buttons](screenshots/profile-buttons.png)
+![Profile Page With Buttons])
 
 - Enhanced Profile page
 - Includes **Profile** and **Dashboard** buttons
@@ -87,7 +87,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 7️⃣ Dashboard Page (With Navigation Buttons)
 
-![Dashboard Page With Buttons](screenshots/dashboard-buttons.png)
+![Dashboard Page With Buttons]()
 
 - Enhanced Dashboard page
 - Navigation buttons allow switching between pages
