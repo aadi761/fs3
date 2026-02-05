@@ -23,7 +23,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 1️⃣ Home Page
 
-![Home Page](  )
+![Home Page](https://github.com/aadi761/fs3/blob/main/home%20page%20.jpeg)
 
 - Default landing page
 - Displays navigation buttons (Home, About, Contact)
@@ -33,7 +33,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 2️⃣ About Page
 
-![About Page]()
+![About Page](https://github.com/aadi761/fs3/blob/main/about.jpeg)
 
 - Loaded when `/about` route is accessed
 - Displays static information
@@ -52,13 +52,12 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 4️⃣ Profile Page (Without Buttons)
 
-![Profile Page Basic]()
+![Profile Page Basic](https://github.com/aadi761/fs3/blob/main/profile.jpeg)
 
 - Basic Profile page
 - Contains:
   - Profile image
   - Projects list
-  - Achievements
 - No navigation buttons inside the page
 - Demonstrates **basic routing using Route**
 
@@ -76,7 +75,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 6️⃣ Profile Page (With Navigation Buttons)
 
-![Profile Page With Buttons])
+![Profile Page With Buttons](https://github.com/aadi761/fs3/blob/main/profile%20nav.jpeg)
 
 - Enhanced Profile page
 - Includes **Profile** and **Dashboard** buttons
@@ -87,7 +86,7 @@ The application includes **two versions of Profile and Dashboard pages**:
 
 ## 7️⃣ Dashboard Page (With Navigation Buttons)
 
-![Dashboard Page With Buttons]()
+![Dashboard Page With Buttons](https://github.com/aadi761/fs3/blob/main/dashboard%20nav.jpeg)
 
 - Enhanced Dashboard page
 - Navigation buttons allow switching between pages
